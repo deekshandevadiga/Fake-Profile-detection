@@ -14,7 +14,7 @@ from pytesseract import pytesseract
 pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # Proxycurl API configuration
-PROXYCURL_API_KEY = "scamyk77JOP0fxe_PUFn8A"  # Replace with your API key
+PROXYCURL_API_KEY = "LgSq4qby8yyUPfAvVouCSA"  # Replace with your API key
 PROXYCURL_ENDPOINT = "https://nubela.co/proxycurl/api/v2/linkedin"
 
 # Helper Functions
